@@ -2,13 +2,11 @@
 
 
 
-
 /** start generic web page styles **/
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
-    
 }
 
 body {
@@ -117,6 +115,7 @@ header nav ul li a {
 /** end styles for main content **/
 
 
+
 /** start styles for benefits **/
 .benefits {
     margin-right: 20px;
@@ -146,6 +145,7 @@ header nav ul li a {
 /** end styles for benefits **/
 
 
+
 /** start styles for footer **/
 footer {
     padding: 30px;
@@ -157,5 +157,4 @@ footer {
 footer h2 {
     font-size: 20px;
 }
-
 /** end styles for footer **/
