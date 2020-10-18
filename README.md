@@ -8,7 +8,9 @@ The fully refactored and deployed webpage can be found at:
 ## User Story
 
 AS A marketing agency
+
 I WANT a codebase that follows accessibility standards
+
 SO THAT our own site is optimized for search engines
 
 --------------
@@ -31,8 +33,7 @@ GIVEN a webpage meets accessibility standards
 
 ## Mock-Up
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+![Image of horiseon REF](https://octodex.github.com/images/yaktocat.png)
 
 --------------
 
