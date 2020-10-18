@@ -1,6 +1,8 @@
 /** Style sheet for Horiseon web page **/
 
 
+
+
 /** start generic web page styles **/
 * {
     box-sizing: border-box;
@@ -21,6 +23,7 @@ p {
     font-size: 16px;
 }
 /** end generic web page styles **/
+
 
 
 /** start styles for header **/
@@ -61,8 +64,8 @@ header nav ul li a {
     color: #ffffff;
     text-decoration: none;
 }
-
 /** end styles for header **/
+
 
 
 /** start styles for hero **/
@@ -75,6 +78,8 @@ header nav ul li a {
     background-position: center;
 }
 /** end styles for hero **/
+
+
 
 /** start styles for main content **/
 .float-left {
@@ -93,7 +98,7 @@ header nav ul li a {
     margin-left: 20px;
 }
 
-.search-engine-optimization {
+.content div {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -101,45 +106,11 @@ header nav ul li a {
     color: #ffffff;
 }
 
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.search-engine-optimization img {
+.content div img {
     max-height: 200px;
 }
 
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
-}
-
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
+.content div h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
